@@ -1,0 +1,14 @@
+C:\Projetos\TemperatureConversion\bin\Debug\net8.0\TemperatureConversion.exe
+C:\Projetos\TemperatureConversion\bin\Debug\net8.0\TemperatureConversion.deps.json
+C:\Projetos\TemperatureConversion\bin\Debug\net8.0\TemperatureConversion.runtimeconfig.json
+C:\Projetos\TemperatureConversion\bin\Debug\net8.0\TemperatureConversion.dll
+C:\Projetos\TemperatureConversion\bin\Debug\net8.0\TemperatureConversion.pdb
+C:\Projetos\TemperatureConversion\obj\Debug\net8.0\TemperatureConversion.GeneratedMSBuildEditorConfig.editorconfig
+C:\Projetos\TemperatureConversion\obj\Debug\net8.0\TemperatureConversion.AssemblyInfoInputs.cache
+C:\Projetos\TemperatureConversion\obj\Debug\net8.0\TemperatureConversion.AssemblyInfo.cs
+C:\Projetos\TemperatureConversion\obj\Debug\net8.0\TemperatureConversion.csproj.CoreCompileInputs.cache
+C:\Projetos\TemperatureConversion\obj\Debug\net8.0\TemperatureConversion.dll
+C:\Projetos\TemperatureConversion\obj\Debug\net8.0\refint\TemperatureConversion.dll
+C:\Projetos\TemperatureConversion\obj\Debug\net8.0\TemperatureConversion.pdb
+C:\Projetos\TemperatureConversion\obj\Debug\net8.0\TemperatureConversion.genruntimeconfig.cache
+C:\Projetos\TemperatureConversion\obj\Debug\net8.0\ref\TemperatureConversion.dll
